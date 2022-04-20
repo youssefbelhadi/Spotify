@@ -1,0 +1,115 @@
+.left{
+    background-color: #000;
+}
+.left .fa,.left span{
+    color: #B3B3B3;
+    background-color: #000;
+    font-size: 15pt;
+    font-weight: bold;
+}
+.left span{
+    margin-left: 0.6rem;
+    font-size: 11pt;
+}
+
+.playlist span{
+    margin-left: 0;
+    line-height:35px;
+}
+.center{
+    background-color: #3D2C77;
+    height: 850px;
+    overflow-y: scroll;
+}
+.right{
+    background-color: #383737;
+}
+.right span{
+    color: #B3B3B3;
+    font-weight: 500;
+    line-height:20px;
+    display: -webkit-inline-box;
+
+}
+
+small{
+    color: #B3B3B3;
+    display: -webkit-inline-box;
+}
+
+*{
+    color: #fff;
+}
+
+.btn-rounded {
+    border-radius: 50px !important;
+    border: 1px solid white !important;
+}
+.btn-circle {
+    border-radius: 50% !important;
+}
+
+.titre-likes{
+    background: linear-gradient(to bottom right,#4B2CB0,#7B8F87);
+}
+.titre-likes .fa{
+    font-size: 141pt;
+}
+.myTitle{
+    font-size: 100pt;
+    letter-spacing:-10px;
+    font-weight:bold;
+}
+.btn-pause{
+    background-color: #1DB954 !important;
+}
+table span{
+    color: #B3B3B3 !important;
+    font-weight: bold
+}
+
+.btn-download{
+    border: 1px solid #B3B3B3 !important;
+    color: #B3B3B3 !important;
+}
+
+.table td {
+    border: none !important;
+    padding: 10px !important;
+}
+.myTd td{
+    padding-top: 30px !important;
+}
+.table-playlist{
+    background-color: #1C1634;
+}
+
+.center::-webkit-scrollbar {
+    width: 16px;
+}
+
+.center::-webkit-scrollbar-track {
+    background-color: #e4e4e4;
+    border: none;
+
+}
+
+.center::-webkit-scrollbar-thumb {
+    background-color: #B3B3B3;
+    border: none;
+    height: 16px;
+
+}
+.footer{
+    background-color: #181818;
+}
+
+.progress{
+    height: 6px !important;
+}
+.progress-bar{
+    background-color: #1DB954 !important;
+}
+.play span{
+    color: #B3B3B3 !important;
+}
